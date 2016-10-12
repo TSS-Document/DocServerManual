@@ -1,7 +1,7 @@
 # 文档服务器手册
 该服务器主要功能是,当指定gitbook仓库收到提交时,自动将其部署到web服务器中.
 
-本文档github地址为https://github.com/TSS-Requierment/DocServerManual
+本文档github地址为https://github.com/TSS-Document/DocServerManual
 
 ## 环境
 1. git
@@ -10,7 +10,7 @@
 3. 你喜欢的`markdown`编辑器.推荐`atom`或`gitbook editor`
 
 ## 步骤
-1. 在TssRequirement的organization中创建仓库,url为https://github.com/TSS-Requierment
+1. 在TssRequirement的organization中创建仓库,url为https://github.com/TSS-Document
 2. 本地clone仓库,在 `.git`同级目录执行`gitbook init`
 4. 创建.gitignore文件,写入内容
    ```
@@ -43,5 +43,5 @@
   ```
 
   >可选,这样做是为了让字体变好看
-3. 提交
+3. commit and push
 4. 几秒钟后,http://115.29.184.56:10000/html 中可查看到编译好的网页
