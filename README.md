@@ -10,6 +10,7 @@
 3. 你喜欢的`markdown`编辑器.推荐`atom`或`gitbook editor`
 
 ## 步骤
+1. 在TssRequirement的<a href="https://github.com/TSS-Document" target="_blank_">organization</a>中创建仓库
 2. 本地clone仓库,在 `.git`同级目录执行`gitbook init`
 4. 创建.gitignore文件,写入内容
    ```
