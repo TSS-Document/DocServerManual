@@ -10,7 +10,6 @@
 3. 你喜欢的`markdown`编辑器.推荐`atom`或`gitbook editor`
 
 ## 步骤
-1. 在TssRequirement的organization中创建仓库,url为https://github.com/TSS-Document
 2. 本地clone仓库,在 `.git`同级目录执行`gitbook init`
 4. 创建.gitignore文件,写入内容
    ```
@@ -43,7 +42,7 @@
   ```
 
   >可选,这样做是为了让字体变好看
-  
+
 3. commit and push
 4. 约20秒后,http://115.29.184.56:10000/html 中可查看与repository同名的文件夹,点击可查看编译好的网页
 5. 若上一步成功,则自动部署配置成功,之后的commit都会触发文档部署
