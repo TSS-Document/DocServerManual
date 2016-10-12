@@ -4,7 +4,7 @@
 服务器信息和具体部署位置,参见QQ群公告
 
 ## 连接服务器
- 需要一个SSH连接工具,推荐MobaXterm
+ 需要一个SSH连接工具,推荐[MobaXterm](http://mobaxterm.mobatek.net/)
 
 
 ## 步骤
