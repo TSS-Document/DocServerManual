@@ -6,7 +6,6 @@
 ## 连接服务器
  需要一个SSH连接工具,推荐[MobaXterm](http://mobaxterm.mobatek.net/)
 
-
 ## 步骤
 1. 在TssRequirement的organization中创建仓库
 2. clone仓库,在 `.git`同级目录执行`gitbook init`
