@@ -1,3 +1,3 @@
 # Summary
 
-* [文档服务器手册](README.md)
+* [文档自动部署手册](README.md)
