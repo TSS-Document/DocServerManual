@@ -7,7 +7,7 @@
  需要一个SSH连接工具,推荐MobaXterm
 
 ## 步骤
-1. 创建仓库
+1. 在TssRequirement的organization中创建仓库
 2. clone仓库,在 `.git`同级目录执行`gitbook init`
 3. 提交
-4.
+4. http://115.29.184.56:10000/html 中即可查看到编译好的网页
